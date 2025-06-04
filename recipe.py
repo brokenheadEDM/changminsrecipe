@@ -15,7 +15,8 @@ cuisines = [
     "French",
     "Mediterranean",
     "American",
-    "Greek"
+    "Greek",
+    "Korean"
 ]
 
 languages = {
